@@ -3,10 +3,6 @@
 ## Overview
 This project showcases a Super Store Sales Dashboard built using Power BI, offering insights into sales performance, profitability, and customer behavior across various dimensions. The dashboard is designed for business analysts and decision-makers to track key performance indicators (KPIs) and identify trends for strategic planning.
 
-## Dashboard Screenshot
-![Dashboard Screenshot]("C:\Users\Divakaran\Pictures\Screenshots\Screenshot 2025-02-01 113620.png")
-
-
 ## Key Features
 
 ### Interactive Visualizations:
