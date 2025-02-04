@@ -43,3 +43,5 @@ The dataset includes transactional details of a fictional superstore, covering:
 1. Clone this repository:
    ```bash
    git clone https://github.com/divakarans/super-store-sales-dashboard.git
+2. Open the Power BI .pbix file to explore the interactive dashboard.
+3. Use filters to customize insights based on your preferences.
